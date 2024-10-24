@@ -30,3 +30,142 @@
 *.exe
 *.out
 *.app
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode/*
+.history/
+node_modules/
+jspm_packages/
+
+# Visual Studio working directory
+/.vs
+
+# Build Folders (you can keep bin if you'd like to checkin binaries)
+bin/
+obj/
+
+# MSTest test Results
+TestResults/
+*.trx
+*.testsettings
+
+# Visual Studio 2019+ Logs
+.vs/
+.vscode/
+
+# IIS Express folder
+IISExpress/
+
+# Backup & report files from converting an old project file
+_UpgradeReport_Files/
+Backup*/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# DotNet framework
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio Code Macros folder
+.vscode-macros/
+
+# Arduino IDE
+*.ino.*
+*.hex
+*.elf
+*.bin
+*.eep
+
+# Arduino Core and libraries
+libraries/*/
+hardware/*/
+
+# Build output directories
+build/
+.arduino15/
+.arduino15/**
+
+# Arduino IDE backups
+*.bak
+*.tmp
+
+# Sketchbook and build environment
+.sketchbook/
+*.sketch.*
+*.cpp.*
+*.ino.*
+*.ino.cpp
+*.ino.bin
+
+# Object and intermediate files
+*.o
+*.d
+
+# Core Dumps
+*.core
+
+# Temporary files
+*.log
