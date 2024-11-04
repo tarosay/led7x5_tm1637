@@ -146,6 +146,7 @@ namespace _7x5dotFontSender
             this.lblConnect.Size = new System.Drawing.Size(70, 12);
             this.lblConnect.TabIndex = 1;
             this.lblConnect.Text = "接続ポート: ";
+            this.lblConnect.Click += new System.EventHandler(this.lblConnect_Click);
             // 
             // btnSerialOpen
             // 

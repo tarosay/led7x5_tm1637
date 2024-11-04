@@ -155,5 +155,10 @@ namespace _7x5dotFontSender
             this.SpeedCnt = this.Speeds[tbrSpeed.Value];
             Debug.WriteLine(this.SpeedCnt);
         }
+
+        private void lblConnect_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
